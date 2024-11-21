@@ -74,7 +74,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/apt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apt" height="30" width="40" /></a>
 <a href="https://instagram.com/diff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diff" height="30" width="40" /></a>
-<a href="https://discord.gg/discord link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord link" height="30" width="40" /></a>
+<a href="[https://discord.gg/discord link](https://discord.gg/nDcjVc2M)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord link" height="30" width="40" /></a>
 </p>
 ✉️  Email me at contact@selynt.com
 
