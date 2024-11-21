@@ -76,6 +76,6 @@
 <a href="https://instagram.com/diff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diff" height="30" width="40" /></a>
 <a href="https://discord.gg/discord link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord link" height="30" width="40" /></a>
 </p>
-✉️  Email me at (mailto:contact@selynt.com)
+✉️  Email me at [(mailto:contact@selynt.com)]
 
 ----------------------------------------------
